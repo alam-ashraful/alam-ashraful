@@ -1,4 +1,4 @@
-### Hi there 👋!
+### Hi 👋!
 
 This is Md. Ashraful Alam. I Prefer to go by Nayan, a developer based in Bangladesh. Writing software and solving problems is one of my greatest passion! I have written software in many languages, but I'm particularly fond of C#, NodeJS, JS and C++.
 
