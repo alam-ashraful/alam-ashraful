@@ -11,7 +11,7 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
 - 💬 Ask me about C#, .NET, NodeJS, Angular, NestJS
 - 😄 Pronouns: .NET Developer, Full Stack Developer, Programmer, DevOps
 - 📫 How to reach me: 
----
+--
 
 ![Ashraful Alam's GitHub stats](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=karl-ashraful&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
 
