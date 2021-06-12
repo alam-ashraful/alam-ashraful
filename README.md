@@ -1,15 +1,14 @@
 ### Hi 👋!
 
-This is Md. Ashraful Alam. I Prefer to go by Ashraful Alam., a developer based in Bangladesh. Writing software and solving problems is one of my greatest passion! I have written software in many languages, but I'm particularly fond of C#, NodeJS, JS and C++.
+This is Md. Ashraful Alam. I have written software in many languages, but I'm particularly fond of C#, Python, PHP, JavaScript and C++.
 
 Besides writing software, I have a passion for sharing knowledge and learning new technology. As such, I'm mentoring the C# and SQL tracks on Mentors Without Borders, posting on Stack Overflow, creating demo applications and libraries, and writing blog posts.
 
 - 🔭 I’m currently working.
-- 🌱 I’m currently learning Redis, Docker and WebAssembly
-- 👯 I’m looking to collaborate on Blockchain, IPFS and AI related projects
-- 🤔 I’m looking for help With IPFS
-- 💬 Ask me about C#, .NET, NodeJS, Angular, NestJS
-- 😄 Pronouns: .NET Developer, Full Stack Developer, Programmer, DevOps
+- 🌱 I’m currently learning Django.
+- 👯 I’m looking to collaborate on AI related projects.
+- 💬 Ask me about C#, .NET, Python, PHP, JavaScript.
+- 😄 Pronouns: .NET Developer, Full Stack Developer, Programmer, DevOps.
 - 📫 How to reach me: 
 --
 
