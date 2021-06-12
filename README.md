@@ -1,4 +1,4 @@
-### Hi 👋!
+### ようこそ 👋!
 
 This is Md. Ashraful Alam. I have written software in many languages, but I'm particularly fond of C#, Python, PHP, JavaScript and C++.
 
