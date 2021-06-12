@@ -13,8 +13,6 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
 - 📫 How to reach me: 
 --
 
-![Ashraful Alam's GitHub stats](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=karl-ashraful&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
+![Ashraful Alam's GitHub stats](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=karl-ashraful&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)
 
-![Ashraful Alam's most used languages](https://github-readme-stats-sabesansathananthan.vercel.app/api/top-langs/?username=karl-ashraful&layout=compact&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karl-ashraful&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Ashraful Alam's most used languages](https://github-readme-stats-sabesansathananthan.vercel.app/api/top-langs/?username=karl-ashraful&layout=compact&theme=cobalt)
