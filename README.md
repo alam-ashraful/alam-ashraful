@@ -40,12 +40,11 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to collaborate on AI related projects.
 - 😄 Pronouns: .NET Developer, Full Stack Developer, Programmer, DevOps.
-- 💼 Any freelance work? Do reach, [email](mailto:neoashraful@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 
     [<img src="https://www.iconfinder.com/icons/3225892/download/png/64" width="17" />](mailto:neoashraful@gmail.com)
     [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" width="17" />](https://www.linkedin.com/in/alam-ashraful/)
     [<img src="https://www.iconfinder.com/icons/5000737/download/png/64" width="17" />](https://www.wantedly.com/id/ashraful)
-- 💬 Ask me about anything, I am happy to help;
 
 ## &#x1f4c8; Stats
 
