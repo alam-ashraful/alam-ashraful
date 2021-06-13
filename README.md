@@ -15,19 +15,19 @@ me = SoftwareEngineer()
 ```
 
 <a href="https://twitter.com/karl_ashraful">
-  <img align="left" alt="Ashraful Alam | Twitter" width="22px" height="22px" src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/twitter.svg" />
+  <img align="left" alt="Ashraful Alam | Twitter" width="22px" src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alam-ashraful/">
-  <img align="left" alt="Ashraful Alam | LinkedIn" width="22px" height="22px" src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/linkedin.svg" />
+  <img align="left" alt="Ashraful Alam | LinkedIn" width="22px" src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/karl.ashraful/">
-  <img align="left" alt="Ashraful Alam | Instagram" width="22px" height="22px" src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/instagram.svg" />
+  <img align="left" alt="Ashraful Alam | Instagram" width="22px" src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/instagram.svg" />
 </a>
 <a href="https://facebook.com/ashraful.senpai">
-  <img align="left" alt="Ashraful Alam | Facebook" width="22px" height="22px" src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/facebook.svg" />
+  <img align="left" alt="Ashraful Alam | Facebook" width="22px" src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/facebook.svg" />
 </a>
 <a href="https://www.wantedly.com/id/ashraful">
-  <img align="left" alt="Ashraful Alam | Wantedly" width="22px" height="22px" src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/flask.svg" />
+  <img align="left" alt="Ashraful Alam | Wantedly" width="22px" src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/flask.svg" />
 </a>
 <br />
 <br />
@@ -42,9 +42,9 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
 - 😄 Pronouns: .NET Developer, Full Stack Developer, Programmer, DevOps.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 
-    [<img src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/gmail.svg" width="17" />](mailto:neoashraful@gmail.com)
-    [<img src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/linkedin.svg" width="17" />](https://www.linkedin.com/in/alam-ashraful/)
-    [<img src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/flask.svg" width="17" />](https://www.wantedly.com/id/ashraful)
+    [<img src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/gmail.svg" width="22" />](mailto:neoashraful@gmail.com)
+    [<img src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/linkedin.svg" width="22" />](https://www.linkedin.com/in/alam-ashraful/)
+    [<img src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/flask.svg" width="22" />](https://www.wantedly.com/id/ashraful)
 
 ## &#x1f4c8; Stats
 
