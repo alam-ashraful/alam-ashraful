@@ -16,6 +16,5 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
 
 ---
 
-![Ashraful's GitHub stats](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=karl-ashraful&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)
-
-![Ashraful's most used languages](https://github-readme-stats-sabesansathananthan.vercel.app/api/top-langs/?username=karl-ashraful&layout=compact&theme=cobalt)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karl-ashraful&show_icons=true&theme=cobalt" alt="Ashraful Alam" />
+<p align="center"> <img src="https://github-readme-stats-sabesansathananthan.vercel.app/api/top-langs/?username=karl-ashraful&layout=compact&theme=cobalt" alt="Ashraful Alam" />
