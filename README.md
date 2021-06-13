@@ -15,10 +15,10 @@ me = SoftwareEngineer()
 ```
 
 <a href="https://twitter.com/karl_ashraful">
-  <img align="left" alt="Ashraful Alam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ashraful Alam | Twitter" width="22px" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alam-ashraful/">
-  <img align="left" alt="Ashraful Alam | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ashraful Alam | LinkedIn" width="22px" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
 <br />
