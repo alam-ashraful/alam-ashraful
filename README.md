@@ -1,5 +1,14 @@
 ### ようこそ 👮‍♂️!
 
+<a href="https://twitter.com/karl_ashraful">
+  <img align="left" alt="Ashraful Alam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alam-ashraful/">
+  <img align="left" alt="Ashraful Alam | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
+<br />
+
 This is Md. Ashraful Alam. I have written software in many languages, but I'm particularly fond of C#, Python, PHP, JavaScript and C++.
 
 Besides writing software, I have a passion for sharing knowledge and learning new technology. As such, I'm mentoring the C# and SQL tracks on Mentors Without Borders, posting on Stack Overflow, creating demo applications and libraries, and writing blog posts.
