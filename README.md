@@ -4,12 +4,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Ashraful Alam"
         self.role = "Software Engineer"
-
 
 me = SoftwareEngineer()
 ```
