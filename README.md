@@ -40,13 +40,23 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl-ashraful&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karl-ashraful&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>
+<p align=center>
+  <div align=center>
+    <a href="#" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=karl-ashraful&theme=react&border=61dafb&hide_border=true" alt="Ashraful Alam" />
+    </a>
+    <a href="#" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=karl-ashraful&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br />
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl-ashraful&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <img src="https://activity-graph.herokuapp.com/graph?username=karl-ashraful&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 ## 🏆 GitHub Trophies
 
