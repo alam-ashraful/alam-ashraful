@@ -16,7 +16,7 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
 - 💬 Ask me about anything, I am happy to help;
 
 ---
-<p align="right"> 📈 Languages and Tools
+<p align="right"> ✅ Languages and Tools
 <p align="right">
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
