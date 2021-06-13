@@ -41,10 +41,6 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
 - 👯 I’m looking to collaborate on AI related projects.
 - 😄 Pronouns: .NET Developer, Full Stack Developer, Programmer, DevOps.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: 
-    [<img src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/gmail.svg" width="22" />](mailto:neoashraful@gmail.com)
-    [<img src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/linkedin.svg" width="22" />](https://www.linkedin.com/in/alam-ashraful/)
-    [<img src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/flask.svg" width="22" />](https://www.wantedly.com/id/ashraful)
 
 ## &#x1f4c8; Stats
 
