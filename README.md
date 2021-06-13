@@ -38,7 +38,7 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
     [<img src="https://www.iconfinder.com/icons/5000737/download/png/64" width="17" />](https://www.wantedly.com/id/ashraful)
 - 💬 Ask me about anything, I am happy to help;
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Stats
 
 <p align=center>
   <div align=center>
@@ -59,6 +59,6 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
   <img src="https://activity-graph.herokuapp.com/graph?username=karl-ashraful&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karl-ashraful&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
