@@ -29,6 +29,9 @@ me = SoftwareEngineer()
 <a href="https://www.wantedly.com/id/ashraful">
   <img align="left" alt="Ashraful Alam | Wantedly" width="22px" src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/flask.svg" />
 </a>
+<a href="https://www.upwork.com/freelancers/~01ee0000a01a7c305f">
+  <img align="left" alt="Ashraful Alam | Up Work" width="22px" src="https://github.com/karl-ashraful/karl-ashraful/blob/main/images/upwork.svg" />
+</a>
 <br />
 <br />
 
