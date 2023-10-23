@@ -1,4 +1,4 @@
-### ようこそ 👋!
+### ようこそ! 👋
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kalam-ashraful.alam-ashraful">
 
@@ -63,7 +63,7 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
     </a>
   </div>
   <br />
-  <img src="https://activity-graph.herokuapp.com/graph?username=alam-ashraful&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  [![Ashraful Alam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alam-ashraful)](https://github.com/alam-ashraful/github-readme-activity-graph)
 </p>
 
 ## 🏆 Trophies
