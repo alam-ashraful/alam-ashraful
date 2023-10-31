@@ -15,7 +15,7 @@ me = SoftwareEngineer()
 ```
 
 <a href="https://twitter.com/karl_ashraful">
-  <img align="left" alt="Ashraful Alam | Twitter" width="22px" src="https://github.com/alam-ashraful/karl-ashraful/blob/main/images/twitter.svg" />
+  <img align="left" alt="Ashraful Alam | Twitter" width="22px" src="https://github.com/alam-ashraful/alam-ashraful/blob/main/images/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alam-ashraful/">
   <img align="left" alt="Ashraful Alam | LinkedIn" width="22px" src="https://github.com/alam-ashraful/alam-ashraful/blob/main/images/linkedin.svg" />
