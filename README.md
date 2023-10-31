@@ -1,6 +1,6 @@
 ### ようこそ! 👋
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kalam-ashraful.alam-ashraful">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alam-ashraful.alam-ashraful">
 
 ```python
 #!/usr/bin/python
@@ -63,8 +63,11 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
     </a>
   </div>
   <br />
-  [![Ashraful Alam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alam-ashraful)](https://github.com/alam-ashraful/github-readme-activity-graph)
 </p>
+
+## 🏆 Contribution Graph
+
+[![Ashraful Alam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alam-ashraful)](https://github.com/alam-ashraful/github-readme-activity-graph)
 
 ## 🏆 Trophies
 
