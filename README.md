@@ -71,4 +71,4 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alam-ashraful&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alam-ashraful&theme=nord&column=7)]
