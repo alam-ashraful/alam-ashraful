@@ -89,7 +89,7 @@ Hi, I'm **Md. Ashraful Alam**! I have experience developing software in various 
 ---
 
 ## 🎵 Now Playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/317bmagu5fwejyw5cl6gjv6yyf74)
 
 ---
 
