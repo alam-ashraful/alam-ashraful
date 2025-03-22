@@ -13,7 +13,8 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 ```
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/karl_ashraful">
   <img align="left" alt="Ashraful Alam | Twitter" width="22px" src="https://github.com/alam-ashraful/alam-ashraful/blob/main/images/twitter.svg" />
 </a>
@@ -34,13 +35,15 @@ me = SoftwareEngineer()
 </a>
 <br />
 <br />
+</p>
+
 
 This is Md. Ashraful Alam. I have written software in many languages but am particularly fond of C#, Python, PHP, JavaScript, and C++.
 
 Besides writing software, I am passionate about sharing knowledge and learning new technology. As such, I'm mentoring the C# and SQL tracks on Mentors Without Borders, posting on Stack Overflow, creating demo applications and libraries, and writing blog posts.
 
-- 🔭 I’m currently working.
-- 🌱 I’m currently learning Django.
+- 🔭 I’m currently working on Vue3 and TypeScript.
+- 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on AI-related projects.
 - 😄 Pronouns: .NET Developer, Full Stack Developer, Programmer, DevOps.
 - 💬 Ask me about anything, I am happy to help;
