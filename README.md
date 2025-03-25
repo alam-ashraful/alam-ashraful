@@ -38,7 +38,7 @@ Hi, I'm **Md. Ashraful Alam**! I have experience developing software in various 
 
 ## 🚀 Featured Projects
 - [**AR**](https://github.com/alam-ashraful/ar.visual-aid-for-children) - Visual aid for children using Augmented Reality.
-- [**Project 2**](https://github.com/username/project2) - Short description.
+- [**ERP**](https://github.com/alam-ashraful/erp.pioneerdenim) - ERP solution for Textiles.
 - [**Project 3**](https://github.com/username/project3) - Short description.
 
 ---
