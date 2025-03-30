@@ -64,22 +64,22 @@ Hi, I'm **Md. Ashraful Alam**! I have experience developing software in various 
 
 ## 📬 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/alam-ashraful/">
+<a href="https://www.linkedin.com/in/alam-ashraful/" target="_blank">
   <img align="left" alt="Ashraful Alam | LinkedIn" width="22px" src="https://github.com/alam-ashraful/alam-ashraful/blob/main/images/linkedin.svg" />
 </a>
-<a href="https://www.wantedly.com/id/ashraful">
+<a href="https://www.wantedly.com/id/ashraful" target="_blank">
   <img align="left" alt="Ashraful Alam | Wantedly" width="22px" src="https://github.com/alam-ashraful/alam-ashraful/blob/main/images/flask.svg" />
 </a>
-<a href="https://www.instagram.com/karl.ashraful/">
+<a href="https://www.instagram.com/karl.ashraful/" target="_blank">
   <img align="left" alt="Ashraful Alam | Instagram" width="22px" src="https://github.com/alam-ashraful/alam-ashraful/blob/main/images/instagram.svg" />
 </a>
-<a href="https://facebook.com/ashraful.senpai">
+<a href="https://facebook.com/ashraful.senpai" target="_blank">
   <img align="left" alt="Ashraful Alam | Facebook" width="22px" src="https://github.com/alam-ashraful/alam-ashraful/blob/main/images/facebook.svg" />
 </a>
-<a href="https://twitter.com/karl_ashraful">
+<a href="https://twitter.com/karl_ashraful" target="_blank">
   <img align="left" alt="Ashraful Alam | Twitter" width="22px" src="https://github.com/alam-ashraful/alam-ashraful/blob/main/images/twitter.svg" />
 </a>
-<a href="https://www.upwork.com/freelancers/~01ee0000a01a7c305f">
+<a href="https://www.upwork.com/freelancers/~01ee0000a01a7c305f" target="_blank">
   <img align="left" alt="Ashraful Alam | Up Work" width="22px" src="https://github.com/alam-ashraful/alam-ashraful/blob/main/images/upwork.svg" />
 </a>
 <br />
