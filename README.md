@@ -15,7 +15,7 @@ me = SoftwareEngineer()
 ```
 
 ## 📌 About Me
-Hi, I'm @alam-ashraful ! I have experience developing software in various languages, with a special focus on **C#, PHP, Vue.js, Typescript and Java**. I'm passionate about **mentoring, open-source contributions, and continuous learning**.
+Hi, I'm [Ashraful](https://github.com/alam-ashraful) I have experience developing software in various languages, with a special focus on **C#, PHP, Vue.js, Typescript and Java**. I'm passionate about **mentoring, open-source contributions, and continuous learning**.
 
 - 🔭 I’m currently working on **Vue 3 and TypeScript**.
 - 🌱 I’m currently learning **AWS**.
